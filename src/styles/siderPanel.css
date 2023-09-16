@@ -1,0 +1,10 @@
+.demo-logo-vertical__collapsed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+
+.demo-logo-vertical {
+    padding: 30px 0 30px 28px;
+}
